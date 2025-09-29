@@ -1,4 +1,4 @@
-> **<span style="color:red"> [Alert] ( This Project is still In - progress ) </span>**
+> **<code style="color:red"> [Alert] ( This Project is still In - progress ) </code>**
 
 # CipherChat – Secure AI-Powered Collaboration for Cybersecurity Problem Solving ✅
 
