@@ -1,4 +1,5 @@
-> **$${\color{red}[Alert] ( This Project is still In - progress )}$$**
+<span style="color:red;">**[Alert] (This project is still in progress)**</span>
+
 
 # CipherChat – Secure AI-Powered Collaboration for Cybersecurity Problem Solving ✅
 
