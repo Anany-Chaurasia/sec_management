@@ -1,5 +1,5 @@
 > [!IMPORTANT] 
-> This project is still in progres
+> This project is still in progress. 🎨😊
 
 
 # CipherChat – Secure AI-Powered Collaboration for Cybersecurity Problem Solving ✅
