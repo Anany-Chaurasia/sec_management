@@ -14,3 +14,7 @@
 * 📂 Problem Rooms → Dedicated spaces for discussing specific technical/cyber issues.
 
 * 💳 Premium Features → Payment gateway unlocks private encrypted rooms and advanced AI support. 
+
+**Folders**
+* `fe` for Frontend
+* `be` for Backend  
