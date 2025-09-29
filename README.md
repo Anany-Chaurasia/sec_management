@@ -1,4 +1,4 @@
-> **$${\color{red} [Alert] ( This Project is still In - progress ) }$$**
+> **$${\color{red}[Alert] ( This Project is still In - progress )}$$**
 
 # CipherChat – Secure AI-Powered Collaboration for Cybersecurity Problem Solving ✅
 
